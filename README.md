@@ -5,6 +5,8 @@ Creator: Jeffery Dixon
 
 Creation Date: 7/30/2020
 
+Version: 1.0 Alpha
+
 Project description:  Similar to Stock X for smaller business such as shoe botique or an indivual like myself who buys and sells items may  need a way one can manage invetory and  keep tack of stock. The current stock that application has is based off an item that i have owned before and theoritical items that one may own and need to sell to manage inside their day to day reslling business,as weall as having a buying option so customers can buy your items at your desired prices. Then it cosist of a sell tab which allows the business owner/ indivaul to buy desired products for the customers.   
 
 
